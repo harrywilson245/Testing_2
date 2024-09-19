@@ -1,2 +1,15 @@
 # Testing_2
-Please work
+
+## Project Group
+
+Harry Wilson
+DSBristol
+
+## Reading Order
+
+* report/
+  - 01-Report.md
+  - 
+## Description
+
+ Group Project for DST
